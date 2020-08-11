@@ -1,4 +1,5 @@
 ## XeraPlugins
+[![discord](https://discord.com/api/guilds/683053832694923319/embed.png)](https://discord.gg/WWm35Tc)
 
 We are a small team making anarchy minecraft server oriented plugins. All these plugins are being used on the server `6b6t.org`.
 
