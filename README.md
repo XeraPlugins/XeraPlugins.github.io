@@ -6,16 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Our projects
 
-<a href="https://github.com/XeraPlugins/LeeesNC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnc" />
-</a>
-<a href="https://github.com/XeraPlugins/LeeesNN">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnn" />
-</a>
-<a href="https://github.com/XeraPlugins/LeeesTablist">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeestablist" />
-</a>
+[![leeesnc](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnc)](https://github.com/XeraPlugins/LeeesNC)
+                         
+[![leeesnn](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnn)](https://github.com/XeraPlugins/LeeesNN)
 
+[![leeestablist](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeestablist)](https://github.com/XeraPlugins/LeeesTablist)
 
 ### Jekyll Themes
 
