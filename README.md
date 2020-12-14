@@ -5,12 +5,18 @@ We are a small team making anarchy minecraft server oriented plugins. All these 
 
 ### Our projects
 
+[![XeraBungeeQueue](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xerabungeequeue)](https://github.com/XeraPlugins/XeraBungeeQueue)
+
+[![XeraTablist](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xeratablist)](https://github.com/XeraPlugins/XeraTablist)
+
+[![XeraVanish](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xeravanish)](https://github.com/XeraPlugins/XeraVanish)
+
+[![XeraMonitor](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xeramonitor)](https://github.com/XeraPlugins/XeraMonitor)
+
+[![XeraHomes](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xerahomes)](https://github.com/XeraPlugins/XeraHomes)
+
 [![leeesnc](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnc)](https://github.com/XeraPlugins/LeeesNC)
                          
-[![leeesnn](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeesnn)](https://github.com/XeraPlugins/LeeesNN)
-
-[![leeestablist](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=leeestablist)](https://github.com/XeraPlugins/LeeesTablist)
-
 ### Contributions
 
 Contributions are welcome. It may take longer since we are a small team, but we are trying our best to review every PR. ;)
