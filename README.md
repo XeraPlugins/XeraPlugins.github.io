@@ -1,11 +1,13 @@
 ## XeraPlugins
 [![discord](https://discord.com/api/guilds/683053832694923319/embed.png)](https://discord.gg/WWm35Tc)
 
-We are a small team making anarchy minecraft server oriented plugins. All these plugins are being used on the server `6b6t.org`.
+We are a small team making anarchy minecraft server oriented plugins. All these plugins are being used on the server `7b7t.me`.
 
 ### Our projects
 
-[![XeraBungeeQueue](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xerabungeequeue)](https://github.com/XeraPlugins/XeraBungeeQueue)
+XeraShield - https://shield.xera.ca
+<br>
+XeraShield is an affordable DDoS Protection service for Minecraft servers.
 
 [![XeraTablist](https://github-readme-stats.vercel.app/api/pin/?username=xeraplugins&repo=xeratablist)](https://github.com/XeraPlugins/XeraTablist)
 
